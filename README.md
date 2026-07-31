@@ -23,4 +23,3 @@ Former Media Arts Student - Iligan City East National High School Sta. Filomena
 [![YouTube](https://img.shields.io/badge/YouTube-kraftaffix-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
 [![Twitch](https://img.shields.io/badge/Twitch-kraftaffix-9146FF?style=for-the-badge&logo=twitch)](https://twitch.tv/kraftaffix)
 [![Twitter](https://img.shields.io/badge/Twitter-kraftaffix-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/kraftaffix)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/G2G841VED)

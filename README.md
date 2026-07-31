@@ -7,7 +7,7 @@ playing Sword x Staff
 [![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)](https://steamcommunity.com/profiles/76561198338806253)
 
 Currently enrolled in: \
-Bachelor of Science in Computer Applications (BSCA) at Mindanao State University - Iligan Institute of Technology (MSU-IIT) \
+Bachelor of Science in Computer Applications at Mindanao State University - Iligan Institute of Technology \
 \
 Former STEM Student - Saint Michael's College (Basic Education Department) \
 Former Media Arts Student - Iligan City East National High School Sta. Filomena

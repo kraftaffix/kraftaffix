@@ -1,20 +1,25 @@
-Former Media Arts student from ICENHS Sta. Filomena \
-STEM student from Saint Michael's College - Basic Education Department
+your local internet gremlin
 
-mostly playing gacha games
-
-About Me: \
-local internet gremlin that plays NIKKE: Goddess of Victory
+playing Sword x Staff
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G841VED)
 
-![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)
+[![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)](https://steamcommunity.com/profiles/76561198338806253)
 
-## Softwares I use
-- [Wondershare Filmora 15]([https://www.blackmagicdesign.com/products/davinciresolve](https://filmora.wondershare.com/))
+## Background
+* **Current:** Bachelor of Science in Computer Applications (BSCA) at Mindanao State University - Iligan Institute of Technology (MSU-IIT)
+* Former STEM Student - Saint Michael's College (Basic Education Department)
+* Former Media Arts Student - Iligan City East National High School Sta. Filomena
+
+## Software & Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama 3.1 Stheno v3.4](https://img.shields.io/badge/Llama_3.1_Stheno_v3.4-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Filmora](https://img.shields.io/badge/Wondershare%20Filmora-000000?style=for-the-badge&logo=wondershare&logoColor=white)
 
 ## Socials
-- Website - [kraftaffix](https://kraftaffix.vercel.app/)
-- YouTube - [kraftaffix](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
-- Twitch - [kraftaffix](https://twitch.tv/kraftaffix)
-- Twitter - [kraftaffix](https://twitter.com/kraftaffix)
+[![Website](https://img.shields.io/badge/Website-kraftaffix.vercel.app-black?style=for-the-badge&logo=vercel)](https://kraftaffix.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-kraftaffix-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UClmV5np_xrpIs0By7jvm56Q)
+[![Twitch](https://img.shields.io/badge/Twitch-kraftaffix-9146FF?style=for-the-badge&logo=twitch)](https://twitch.tv/kraftaffix)
+[![Twitter](https://img.shields.io/badge/Twitter-kraftaffix-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/kraftaffix)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/G2G841VED)

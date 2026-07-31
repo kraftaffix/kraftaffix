@@ -6,10 +6,11 @@ playing Sword x Staff
 
 [![Steam Card](https://card.yuy1n.io/card/76561198338806253/dark,en,badge,badges,games)](https://steamcommunity.com/profiles/76561198338806253)
 
-## Background
-* **Current:** Bachelor of Science in Computer Applications (BSCA) at Mindanao State University - Iligan Institute of Technology (MSU-IIT)
-* Former STEM Student - Saint Michael's College (Basic Education Department)
-* Former Media Arts Student - Iligan City East National High School Sta. Filomena
+Currently enrolled in: \
+Bachelor of Science in Computer Applications (BSCA) at Mindanao State University - Iligan Institute of Technology (MSU-IIT) \
+\
+Former STEM Student - Saint Michael's College (Basic Education Department) \
+Former Media Arts Student - Iligan City East National High School Sta. Filomena
 
 ## Software & Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

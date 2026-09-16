@@ -12,11 +12,31 @@ Bachelor of Science in Computer Applications at Mindanao State University - Ilig
 Former STEM Student - Saint Michael's College (Basic Education Department) \
 Former Media Arts Student - Iligan City East National High School Sta. Filomena
 
-## Software & Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama 3.1 Stheno v3.4](https://img.shields.io/badge/Llama_3.1_Stheno_v3.4-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Filmora](https://img.shields.io/badge/Wondershare%20Filmora-000000?style=for-the-badge&logo=wondershare&logoColor=white)
+## Core Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,vscode" alt="Core Technologies" />
+  </a>
+</p>
+
+## Local AI Ecosystem
+
+* **Ollama** `[ Runtime & Orchestration ]`
+  > Local engine for running and serving quantized models.  
+  <img src="https://badgen.net/badge/Engine/Ollama/000000?icon=terminal" alt="Ollama Badge" />
+
+* **Qwen** `[ Language Model ]`
+  > High-performance open-weight model for code and logic.  
+  <img src="https://badgen.net/badge/LLM/Qwen/615eff" alt="Qwen Badge" />
+
+* **Llama Stheno** `[ Instruction Model ]`
+  > Specialized fine-tune for complex conversational & contextual instruction.  
+  <img src="https://badgen.net/badge/Model/Stheno/412991" alt="Stheno Badge" />
+
+* **Moondream** `[ Vision Model ]`
+  > Compact, lightweight visual-language model built for fast edge inference.  
+  <img src="https://badgen.net/badge/Vision/Moondream/ff6b6b" alt="Moondream Badge" />
 
 ## Socials
 [![Website](https://img.shields.io/badge/Website-kraftaffix.vercel.app-black?style=for-the-badge&logo=vercel)](https://kraftaffix.vercel.app/)

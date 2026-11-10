@@ -1,6 +1,6 @@
 your local internet gremlin
 
-playing Sword x Staff
+suggest me games pls im bored asf
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G841VED)
 
